@@ -1,0 +1,8 @@
+.NavBar_MapTypeButtonContainerWrapper,
+.bm_LocateMeControl {
+    display: none;
+}
+
+.NavBar_zoomIn {
+    margin-top: 30px;
+}
